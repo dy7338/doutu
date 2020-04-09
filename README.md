@@ -19,7 +19,8 @@
 2. 表情包搜索源基于 sogou
 
 #### 下载 & 安装
-windows 版本正在编译
+windows 版本 [下载](https://github.com/dy7338/doutu/releases)
+`特别说明：windows版本不支持动态图片复制（系统特性）`
 
 mac 版本 [下载](https://github.com/dy7338/doutu/releases)
 
