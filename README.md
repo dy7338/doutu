@@ -27,4 +27,4 @@ mac 版本 [下载](https://github.com/dy7338/doutu/releases)
 chrome 插件版本 [aidou](https://github.com/kinglisky/aidou)
 
 # **请我喝咖啡**
-![](pay.png)
+![](pay2.png)
